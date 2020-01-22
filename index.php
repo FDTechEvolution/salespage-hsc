@@ -284,10 +284,10 @@
                     <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">สินค้า :</label>
                     <select name="product" id="product" class="form-control g-brd-gray-light-v4 g-brd-primary--focus rounded-3">
                       <option style="padding: 10px;" value="">เลือกรายการสินค้า</option>
-                      <option value="Nuuna : 1 กล่อง">1 กล่อง : 490.-</option>
-                      <option value="Nuuna : 3 กล่อง">3 กล่อง : 990.-</option>
-                      <option value="Nuuna : 4 แถม 3b 1">4 กล่อง (แถมฟรี! ครีมกันแดด 6b) : 1,290.-</option>
-                      <option value="Nuuna : 6 แถม 1 กล่อง">6 กล่อง (แถมฟรี! 1 กล่อง) : 1,990.-</option>
+                      <option value="HSC : 1 เดือน">1 เดือน : 1,259.-</option>
+                      <option value="HSC : 2 เดือน">2 เดือน : 2,050.-</option>
+                      <option value="HSC : 3 เดือน">3 เดือน : 2,850.-</option>
+                      <option value="HSC : 4 เดือน">4 เดือน : 3,350.-</option>
                     </select>
                 </div>
                 <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
