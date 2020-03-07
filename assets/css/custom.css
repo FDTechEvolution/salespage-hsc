@@ -61,11 +61,17 @@
 .color-black-white {
     color: #ffffff;
 }
-/* @media (min-width: 576px) {
-    .color-black-white {
-        color: #000000;
-    }
-} */
+.font-bg-men {
+    background-image: url(../img/bg/Male_icon.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+}
+.font-bg-women {
+    background-image: url(../img/bg/Female_icon.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+}
+
 @media (min-width: 992px) {
     .g-font-size-36--lg {
       font-size: 2.57143rem !important;
@@ -76,7 +82,13 @@
     .g-font-size-60--lg {
       font-size: 4.28571rem !important;
     }
-  }
+}
+
+@media (max-width: 576px) {
+    .text-center-mobile {
+        text-align: center !important;
+    }
+}
 
 .container-fluid-custom {
     width: 80%;

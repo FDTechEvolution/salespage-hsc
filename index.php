@@ -10,7 +10,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="asset/icon/favicon.ico">
+    <link rel="shortcut icon" href="asset/icon/favicon.png">
 
     <!-- Google Fonts -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%7CPlayfair+Display%7CRoboto%7CRaleway%7CSpectral%7CRubik">
@@ -38,6 +38,26 @@
 
     <!-- CSS Customization -->
     <link rel="stylesheet" href="assets/css/custom.css">
+
+    <!-- Facebook Pixel Code -->
+      <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '177709470260300');
+        fbq('track', 'PageView');
+      </script>
+      <noscript>
+        <img height="1" width="1" style="display:none"
+          src="https://www.facebook.com/tr?id=177709470260300&ev=PageView&noscript=1"
+        />
+      </noscript>
+    <!-- End Facebook Pixel Code -->
   </head>
 
   <body>
@@ -129,7 +149,7 @@
         </div>
       </section>
 
-      <section id="review" class="g-pt-40 g-py-40">
+      <section id="review" class="g-pt-40 g-py-40 g-mb-30">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-md-6 g-mb-20 text-center">
@@ -145,8 +165,12 @@
                   <li><i class="fa fa-check-square-o"></i> <strong>ผู้หญิง :</strong> ทานวันละ 1 เม็ด</li>
                 </ul>
               </div>
-              <p class="g-mt-20"><strong>1 กระปุก บรรจุ 30 เม็ดแคปซูล | อย. เลขที่ : <a href="https://porta.fda.moph.go.th/FDA_SEARCH_ALL/PRODUCT/FRM_PRODUCT_FOOD.aspx?fdpdtno=1111175450028" target="_blank">11-1-11754-5-0028</a></strong><br/>
-                <span class="g-color-red g-font-size-12">เด็ก , สตรีมีครรภ์ หรือผู้ที่มีโรคประจำตัวควรได้รับคำแนะนำจากแพทย์ (ไม่มีผลในการรักษาหรือป้องกันโรค)</span></p>
+              <div class="mb-4">
+                <p class="g-color-black content-indent">วิตามินของเราไม่มีตัวยา 
+                  <span data-toggle="tooltip" title="เป็นยาที่ใช้รักษาต่อมลูกหมากโต และอาการศีรษะล้าน ยานี้มีฤทธิ์ต่อต้านฮอร์โมนแอนโดรเจน ซึ่งเป็นฮอร์โมนเพศชาย จึงมีผลข้างเคียงประการหนึ่งคือ ลดสมรรถภาพทางเพศ"><u>Finasteride</u></span> และ 
+                  <span data-toggle="tooltip" title="เป็นยาขยายหลอดเลือดที่มีฤทธิ์ให้หลอดเลือดขยายตัว โดยนำมาใช้รักษาความดันโลหิตสูงที่ทำให้เกิดอาการต่าง ๆ หรือทำลายอวัยวะที่สำคัญ"><u>Minoxidil</u></span> ไม่มีผลต่อความเสื่อมของสมรรถภาพทางเพศ เป็นสารสกัดจากธรรมชาติ 100% จึงไม่มีผลข้างเคียงและมีความปลอดภัยสูง</p>
+              </div>
+
               <div class="text-center">
                 <img class="g-width-160" src="assets/img/line-content-01.png">
               </div>
@@ -156,36 +180,108 @@
       </section>
       <!-- End Section Content -->
 
-      <section class="g-bg-black g-mt-60 g-pt-40 g-pb-140--md">
+      <section class="container g-mt-30 g-mb-80 g-py-40">
+        <div class="row">
+          <div class="col-md-6 g-mb-20 text-center order-md-2">
+            <img class="img-fluid" src="assets/img/ads-hsc-03.jpg">
+          </div>
+          <div class="col-md-6 align-self-center order-md-1">
+            <div class="mb-4">
+              <p class="g-color-black content-indent">HSC เป็นสูตรเฉพาะ คัดสรรวัตถุดิบเกรดพรีเมี่ยมในการผลิต ฟื้นฟูจากภายใน กระตุ้นเส้นผม ซึ่งผลิตภัณฑ์ถูกออกแบบและวิจัยโดยแพทย์ผู้เชี่ยวชาญของ HSC ได้รับการรับรองมาตราฐานความปลอดภัยจากองค์การอาหารและยา เลขสารบบ(อย.)</p>
+            </div>
+            <div class="mb-4">
+              <p class="g-color-black content-indent">ประโยชน์อื่นๆของวิตามิน ส่วนผสมทั้ง 17 ชนิด นอกจากบำรุงรากผมแล้ว ยังบำรุงผิว,เล็บ,บำรุงเลือด และ อื่นๆ ทานวิตามินอย่างสม่ำเสมอสุขภาพโดยรวมจะดีขึ้น พร้อมๆกับเส้นผมที่หนาและดกดำขึ้น</p>
+            </div>
+            <p class="g-mt-20"><strong>1 กระปุก บรรจุ 30 เม็ดแคปซูล | อย. เลขที่ : <a href="https://porta.fda.moph.go.th/FDA_SEARCH_ALL/PRODUCT/FRM_PRODUCT_FOOD.aspx?fdpdtno=1111175450028" target="_blank">11-1-11754-5-0028</a></strong><br/>
+                <span class="g-color-red g-font-size-12">เด็ก , สตรีมีครรภ์ หรือผู้ที่มีโรคประจำตัวควรได้รับคำแนะนำจากแพทย์ (ไม่มีผลในการรักษาหรือป้องกันโรค)</span></p>
+            <div class="text-center">
+              <img class="g-width-160" src="assets/img/line-content-01.png">
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h3 class="h3 g-color-black font-family-athiti" style="text-indent: 20px;"><strong>การทานวิตามินจะเป็นการดูแลจากเซลล์รากผมโดยตรง เป็นการฟื้นฟูจากระบบภายในซึ่งจะเห็นผลไวกว่าการใช้ซีรั่มแบบทาหลายเท่าตัว</strong></h3>
+          </div>
+          <div class="col-md-4 g-mb-60--sm">
+            <p class="g-font-size-16 g-color-gray-dark-v4 g-pt-30 g-pl-30 g-mt-minus-30--lg font-bg-men">
+              <strong class="g-color-black g-font-size-18 font-family-athiti">สาเหตุผมร่วงในผู้ชายส่วนมาก เกิดขึ้นจากการถ่ายถอดทางพันธุกรรม พบในผู้ชายอายุระหว่าง 18-90 ปี และมีสูงถึงร้อยละ 38.5</strong><br/><br/>
+              คนที่มี ผมบางแบบพันธุกรรม จะมีรูขุมขนบริเวณหนังศรีษะมีขนาดเล็กลงและเส้นผมที่ผลิตขึ้น มีลักษณะบางและสั้น จึงเกิดอาการผมบางและหลุดร่วงตามมา จนกระทั่งนำไปสู่ ภาวะศรีษะล้าน
+            </p>
+          </div>
+          <div class="col-md-4">
+            <p class="g-font-size-16 g-color-gray-dark-v4 g-pt-30 g-pl-30 g-mt-minus-30--lg font-bg-women">
+              <strong class="g-color-black g-font-size-18 font-family-athiti">สาเหตุผมร่วงในผู้หญิง ภาวะหลังคลอด แพ้ยา หรือแพ้สารเคมี เช่น ดัด ยืด ย้อม โรคประจำตัวที่ผลข้างเคียงของยาทำให้ผมร่วง</strong><br/><br/>
+              รวมไปถึงกรรมพันธุ์ ตัดมดลูก/รังไข่,วัยใกล้หมด หรือวัยหมดประจำเดือน ทำให้มีอาการผมร่วงคล้ายเพศชาย การสังเกตคือ ผมจะค่อยๆ เส้นเล็กลง และค่อยๆ หลุดร่วงจนบางทั้งศรีษะ เริ่มมองเห็นเป็นรอยแหวกขาว กว้างขึ้นเรื่อยๆที่กลางศรีษะ
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="g-bg-black g-mt-30 g-pt-60 g-pb-100--md">
         <div class="container">
             <div class="row g-mb-40">
-                <div class="col-md-3"></div>
-                <div class="col-md-6 text-center">
-                    <img class="img-fluid" src="assets/img/hsc_product-01.png">
-                </div>
-                <div class="col-md-3"></div>
+              <div class="col-md-6 text-center order-md-2">
+                  <img class="img-fluid" src="assets/img/hsc_product-01.png">
+              </div>
+              <div class="col-md-3 text-right text-center-mobile align-self-center order-md-1">
+                <h3 class="h4 g-color-white font-family-athiti"><strong>กระปุกเล็ก</strong></h3>
+                <p class="g-font-size-16 g-color-gray-dark-v4">เป็นวิตามินเสริม ทำให้รากผมแข็งแรงขึ้น เส้นผมเงางาม ไม่ขาดหลุดร่วงง่าย และยังเร่งให้ผมยาวเร็วขึ้น</p>
+              </div>
+              <div class="col-md-3 text-left text-center-mobile align-self-center order-md-3">
+                <h3 class="h4 g-color-white font-family-athiti"><strong>กระปุกใหญ่</strong></h3>
+                <p class="g-font-size-16 g-color-gray-dark-v4">เป็นวิตามินกระตุ้นรากผม ช่วยกระตุ้นรากผมให้งอกใหม่พร้อมบำรุงให้ผมแข็งแรง หนา และดกดำขึ้น</p>
+              </div>
+            </div>
+            <div class="row g-mb-20">
+              <div class="col-md-3 text-center g-px-25 g-py-30">
+                  <h3 class="h4 g-color-white font-family-athiti"><strong>โปรโมชั่น 1 เดือน : 1,259.-</strong></h3>
+                  <div class="g-width-100 g-height-1 g-bg-white g-mt-20 g-mb-20" style="margin: auto"></div>
+                  <p class="g-font-size-16 g-color-gray-dark-v4">ประกอบด้วย Multivitamin + Multivitamin Fomula I อย่างละ 1 กระปุก</p>
+              </div>
+              <div class="col-md-3 text-center g-px-25 g-py-30">
+                  <h3 class="h4 g-color-white font-family-athiti"><strong>โปรโมชั่น 2 เดือน : 2,050.-</strong></h3>
+                  <div class="g-width-100 g-height-1 g-bg-white g-mt-20 g-mb-20" style="margin: auto"></div>
+                  <p class="g-font-size-16 g-color-gray-dark-v4">ประกอบด้วย Multivitamin + Multivitamin Fomula I อย่างละ 2 กระปุก</p>
+              </div>
+              <div class="col-md-3 text-center g-px-25 g-py-30">
+                  <h3 class="h4 g-color-white font-family-athiti"><strong>โปรโมชั่น 3 เดือน : 2,850.-</strong></h3>
+                  <div class="g-width-100 g-height-1 g-bg-white g-mt-20 g-mb-20" style="margin: auto"></div>
+                  <p class="g-font-size-16 g-color-gray-dark-v4">ประกอบด้วย Multivitamin + Multivitamin Fomula I อย่างละ 3 กระปุก</p>
+              </div>
+              <div class="col-md-3 text-center g-px-25 g-py-30">
+                  <h3 class="h4 g-color-white font-family-athiti"><strong>โปรโมชั่น 4 เดือน : 3,350.-</strong></h3>
+                  <div class="g-width-100 g-height-1 g-bg-white g-mt-20 g-mb-20" style="margin: auto"></div>
+                  <p class="g-font-size-16 g-color-gray-dark-v4">ประกอบด้วย Multivitamin + Multivitamin Fomula I อย่างละ 4 กระปุก</p>
+              </div>
             </div>
             <div class="row">
-                <div class="col-md-3 text-center g-px-25 g-py-30">
-                    <h3 class="h4 g-color-white font-family-athiti"><strong>โปรโมชั่น 1 เดือน : 1,259.-</strong></h3>
-                    <div class="g-width-100 g-height-1 g-bg-white g-mt-20 g-mb-20" style="margin: auto"></div>
-                    <p class="g-font-size-16 g-color-gray-dark-v4">ประกอบด้วย Multivitamin + Multivitamin Fomula I อย่างละ 1 กระปุก</p>
-                </div>
-                <div class="col-md-3 text-center g-px-25 g-py-30">
-                    <h3 class="h4 g-color-white font-family-athiti"><strong>โปรโมชั่น 2 เดือน : 2,050.-</strong></h3>
-                    <div class="g-width-100 g-height-1 g-bg-white g-mt-20 g-mb-20" style="margin: auto"></div>
-                    <p class="g-font-size-16 g-color-gray-dark-v4">ประกอบด้วย Multivitamin + Multivitamin Fomula I อย่างละ 2 กระปุก</p>
-                </div>
-                <div class="col-md-3 text-center g-px-25 g-py-30">
-                    <h3 class="h4 g-color-white font-family-athiti"><strong>โปรโมชั่น 3 เดือน : 2,850.-</strong></h3>
-                    <div class="g-width-100 g-height-1 g-bg-white g-mt-20 g-mb-20" style="margin: auto"></div>
-                    <p class="g-font-size-16 g-color-gray-dark-v4">ประกอบด้วย Multivitamin + Multivitamin Fomula I อย่างละ 3 กระปุก</p>
-                </div>
-                <div class="col-md-3 text-center g-px-25 g-py-30">
-                    <h3 class="h4 g-color-white font-family-athiti"><strong>โปรโมชั่น 4 เดือน : 3,350.-</strong></h3>
-                    <div class="g-width-100 g-height-1 g-bg-white g-mt-20 g-mb-20" style="margin: auto"></div>
-                    <p class="g-font-size-16 g-color-gray-dark-v4">ประกอบด้วย Multivitamin + Multivitamin Fomula I อย่างละ 4 กระปุก</p>
-                </div>
+              <div class="col-md-12">
+                <div class="g-width-80x g-height-1 g-bg-white g-mt-20 g-mb-20" style="margin: auto"></div>
+              </div>
+            </div>
+            <div class="row g-mt-20 g-pb-40">
+              <div class="col-md-3"></div>
+              <div class="col-md-3 text-center">
+                <img class="img-fluid g-width-250" src="assets/img/hsc-shampoo-01.png">
+              </div>
+              <div class="col-md-5 align-self-center g-font-size-16">
+                <h3 class="h4 g-color-white font-family-athiti"><strong>แชมพูสระผม HSC (Anti Dandruff Shampoo)</strong></h3>
+                ความแตกต่างของแชมพู HSC ที่เหนือกว่าแชมพูธรรมดา
+                <ul class="g-mb-10">
+                  <li>กระตุ้นการหมุนเวียนเลือดบริเวณรากผม</li>
+                  <li>เพิ่มความแข็งแรงของเส้นผมไม่เปราะขาดง่าย</li>
+                  <li>ลดการความมันบบนหนังศรีษะ</li>
+                  <li>ลดการอักเสบ และรังแค</li>
+                  <li>คืนความชุ่มชื่นให้เส้นผม</li>
+                  <li>ผมจะขึ้นมาง่าย สบายหนังศรีษะ</li>
+                </ul>
+                <strong class="g-color-white">โปรโมชั่น :</strong> 400.- (ซื้อ 1 แถม 1)
+              </div>
+              <div class="col-md-1"></div>
             </div>
         </div>
       </section>
@@ -227,8 +323,6 @@
                   data-center-mode="true"
                   data-focus-on-select="true"
                   data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-45 g-height-45 g-font-size-30 g-color-main-light-v1 g-color-primary--hover"
-                  data-arrow-left-classes="fa fa-angle-left g-left-0 g-left-40--lg g-mt-minus-50 left-arrow-custom"
-                  data-arrow-right-classes="fa fa-angle-right g-right-0 g-right-40--lg g-mt-minus-50 right-arrow-custom"
                   data-nav-for="#carousel6"
                   data-responsive='[{
                     "breakpoint": 768,
@@ -284,10 +378,11 @@
                     <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">สินค้า :</label>
                     <select name="product" id="product" class="form-control g-brd-gray-light-v4 g-brd-primary--focus rounded-3">
                       <option style="padding: 10px;" value="">เลือกรายการสินค้า</option>
-                      <option value="HSC : 1 เดือน">1 เดือน : 1,259.-</option>
-                      <option value="HSC : 2 เดือน">2 เดือน : 2,050.-</option>
-                      <option value="HSC : 3 เดือน">3 เดือน : 2,850.-</option>
-                      <option value="HSC : 4 เดือน">4 เดือน : 3,350.-</option>
+                      <option value="HSC : 1 เดือน">เซต 1 เดือน : 1,259.-</option>
+                      <option value="HSC : 2 เดือน">เซต 2 เดือน : 2,050.-</option>
+                      <option value="HSC : 3 เดือน">เซต 3 เดือน : 2,850.-</option>
+                      <option value="HSC : 4 เดือน">เซต 4 เดือน : 3,350.-</option>
+                      <option value="Shampoo HSC : 1 ชุด">แชมพู HSC (1 แถม 1) : 400.-</option>
                     </select>
                 </div>
                 <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
@@ -309,7 +404,7 @@
                     <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="5" name="description" id="description" placeholder="รายละเอียด / หมายเหตุ (ถ้ามี)"></textarea>
                 </div>
               </div>
-              <input type="hidden" name="redirect" id="redirect" value="https://chepose.wesales.online/thankyou.php"/>
+              <input type="hidden" name="redirect" id="redirect" value="https://hsc.wesales.online/thankyou.php"/>
               <input type="hidden" name="lineid" id="lineid" value=""/>
               <input type="hidden" name="sms" id="sms" value="1"/>
 
@@ -340,8 +435,9 @@
 
     <!-- JS Global Compulsory -->
     <script src="https://assets.wesales.online/vendor/jquery/jquery.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.min.js"></script>
     <script src="https://assets.wesales.online/vendor/jquery-migrate/jquery-migrate.min.js"></script>
-    <script src="https://assets.wesales.online/vendor/popper.min.js"></script>
+    <script src="https://assets.wesales.online/vendor/popper.js/popper.min.js"></script>
     <script src="https://assets.wesales.online/vendor/bootstrap/bootstrap.min.js"></script>
 
     <!-- JS Implementing Plugins -->
@@ -360,10 +456,13 @@
     <script src="https://assets.wesales.online/js/components/hs.carousel.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.go-to.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.onscroll-animation.js"></script>
+
     <script src="https://assets.wesales.online/js/footer-v1.js"></script>
+    <script src="https://assets.wesales.online/js/purchase-form-validation.js"></script>
+    <script src="https://assets.wesales.online/js/purchase-process.js"></script>
 
     <!-- JS Customization -->
-    <script src="assets/js/custom.js"></script>
+    <script src="https://assets.wesales.online/js/custom.js"></script>
 
     <!-- JS Plugins Init. -->
     <script>
@@ -398,14 +497,14 @@
         });
       });
 
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+      })
+
       $(document).on('ready', function () {
         // initialization of scroll animation
         $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
       });
     </script>
   </body>
-
-  <script src="https://assets.wesales.online/js/purchase-form-validation.js"></script>
-  <script src="https://assets.wesales.online/js/purchase-process.js"></script>
-
 </html>
