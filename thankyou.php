@@ -52,16 +52,19 @@
     <body>
         <main>
             <!-- Signup -->
-            <section class="g-min-height-100vh g-flex-centered g-bg-lightblue-radialgradient-circle">
-                <div class="container g-py-50">
+            <section class="g-min-height-50vh g-flex-centered">
+                <div class="container g-py-30">
                     <div class="row justify-content-center">
                         <div class="col-sm-10 col-md-9 col-lg-6">
-                            <div class="u-shadow-v24 g-bg-white rounded g-py-10 g-px-30">
+                            <div class="u-shadow-v24 g-bg-white rounded g-py-10 text-center">
                                 <header class="text-center mb-4">
-                                    <h2 class="h2 g-color-black g-font-weight-600">ขอบคุณสำหรับการสั่งซื้อ</h2>
+                                    <h2 class="h2 g-color-green g-font-weight-600">ขอบคุณที่ไว้วางใจ</h2>
                                     <p id="get-reward"></p>
                                     <div class="d-inline-block g-width-60 g-height-1 g-bg-black mb-2 g-mt-5"></div>
                                 </header>
+                                
+                                <a href="https://lin.ee/oocMgP2"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"></a>
+                               <p class="font-family-athiti"><strong>เพิ่มเพื่อน เพื่อติดตามข่าวสารและโปรโมชั่นดี ๆ ก่อนใคร</strong></p>
                                 <image src="assets/img/hsc_product-01.png" class="img-fluid" />
                             </div>
                         </div>
