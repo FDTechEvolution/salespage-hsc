@@ -58,6 +58,27 @@
         />
       </noscript>
     <!-- End Facebook Pixel Code -->
+
+    <!-- Event snippet for Website sale conversion page -->
+      <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-660104224/dx0QCIqvwskBEKDI4boC',
+            'transaction_id': ''
+        });
+      </script>
+    <!-- END Event snippet for Website sale conversion page -->
+
+    <!-- Global site tag (gtag.js) - Google Ads: 660104224 -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-660104224"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'AW-660104224');
+      </script>
+    <!-- END Global site tag (gtag.js) - Google Ads: 660104224 -->
+
   </head>
 
   <body>
